@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Artificial Intellegence, CP**
 
-- 👯 I’m looking to collaborate on **Web Crawler**
+- 👯 I’m looking to collaborate on **Various Project in All fields to Learn more**
 
 - 📫 How to reach me **ayushgang9114@gmail.com**
 
