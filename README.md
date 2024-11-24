@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Gangwar</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on **Artificial Intellegence Project on Cloud computing**
-
-- 🌱 I’m currently learning **Artificial Intellegence, CP**
+- 🔭 I’m currently working on **Artificial Intellegence Project on Cloud computing efficient resource allocation**
+ 
+- 🌱 I’m currently learning **Artificial Intellegence, CP, DevOPS**
 
 - 👯 I’m looking to collaborate on **Various Project in All fields to Learn more**
 
@@ -80,6 +80,15 @@
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" style="filter: invert(1);" />
     </a> 
+    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" style="filter: invert(1);" />
+    </a>
+    <a href="https://redis.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40" style="filter: invert(1);" />
+    </a>
+    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40" style="filter: invert(1);" />
+    </a>
 </p>
 
 
