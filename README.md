@@ -5,7 +5,7 @@
  
 - 🌱 I’m currently learning **Artificial Intellegence, CP, DevOPS**
 
-- 👯 I’m looking to collaborate on **Various Project in All fields to Learn more**
+- 👯 I’m looking to collaborate on **Various Project in All fields to Learn and explore**
 
 - 📫 How to reach me **ayushgang9114@gmail.com**
 
