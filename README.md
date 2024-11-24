@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ayushgang9114@gmail.com**
 
-- 📄 Know about my experiences [Worked at Fast solutions as an Web Intern](Worked at Fast solutions as an Web Intern)
+- 📄 Know about my experiences (Worked at Fast solutions as an Web Intern)
 
 - ⚡ Fun fact **I m Doing Engineering**
 
