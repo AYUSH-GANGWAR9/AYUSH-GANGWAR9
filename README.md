@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Artificial Intellegence Project on Cloud computing efficient resource allocation**
+- 🔭 I’m currently working on **GenAi, DSA and Golang**
  
 - 🌱 I’m currently learning **Artificial Intellegence, CP, DevOPS, Cloud Computing, Machine Learning**
 
