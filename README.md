@@ -8,8 +8,8 @@
 - 📫 How to reach me **ayushgang9114@gmail.com**
 
 - 📄 Know about my experiences
-   -- Web Development Intern at Fast conversion Marketing Solutions
-   -- Software Development(SDE) Intern at GlobalLogic | A Hitachi group company
+   - Web Development Intern at Fast conversion Marketing Solutions
+   - Software Development(SDE) Intern at GlobalLogic | A Hitachi group company
 
 - ⚡ Fun fact **I m Doing Engineering**
 ## 🌐 Socials:
